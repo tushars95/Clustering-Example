@@ -1,0 +1,2 @@
+# Clustering-Example
+This data-set contains performance of students in an exam on 6 'subjects' (including Overall). Each student is represented by a 'studentID'. There may be duplicates in the studentID which needs to be handled at the time of data pre-processing which will be required.   The task is to cluster studentsIDs into similar cluster based on their 'accuracyRate % (correct/attempted)' and 'attemptRate% (attempted/total)'.
